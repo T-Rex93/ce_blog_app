@@ -4,18 +4,18 @@ To run the backend:
 1. Open the blog-backend folder in the terminal.
 2. Apply migrations and run the server:
 
-    python manage.py makemigrations
-    python manage.py migrate
-    python manage.py runserver
+    - python manage.py makemigrations
+    - python manage.py migrate
+    - python manage.py runserver
 
 To run the frontend:
 1. Open the src folder in the terminal.
 2. Start the React app:
 
-    npm start
+    - npm start
 ----------------------------------------------------------------
-Deployed at: Vercel
-Automation tools used: monday.com
+- Deployed at: Vercel
+- Automation tools used: monday.com
 ----------------------------------------------------------------
 Assumptions or Limitations in the development process:
 - Lack of CSS designs
